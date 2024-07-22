@@ -14,15 +14,14 @@ export function Cards() {
           translateZ="50"
           className="text-xl font-bold text-neutral-600 dark:text-white"
         >
-          Make things float in air
+          Focuz Holidayz
         </CardItem>
         <CardItem
           as="p"
           translateZ="60"
           className="text-neutral-500 text-sm max-w-sm mt-2 dark:text-neutral-300"
         >
-          Hover over this card to unleash the power of CSS perspective
-        </CardItem>
+Focuz Holidayz is a team of well efficient professionals’ works with you to make sure that you will spend your leisure time with us to explore the beauty of the world.        </CardItem>
         <CardItem translateZ="100" className="w-full mt-4">
           <Image
             src="https://images.unsplash.com/photo-1441974231531-c6227db76b6e?q=80&w=2560&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
@@ -46,7 +45,6 @@ export function Cards() {
             translateZ={20}
             as="button"
             className="px-4 py-2 rounded-xl bg-black dark:bg-white dark:text-black text-white text-xs font-bold"
-            onClick={() => AnimatedModalDemo()}
           >
             Sign up
           </CardItem>
