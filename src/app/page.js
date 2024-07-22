@@ -5,7 +5,7 @@ import Footer from "./components/Footer";
 import { HeroParallaxDemo } from "./components/HeroSection";
 import Navbar from "./components/Navbar";
 import DarkMode from "./tsx-components/DarkMode";
-import { useTheme } from './hooks/useTheme';
+import { useTheme } from './Hooks/useTheme.jsx';
 
 export default function Home() {
   const [theme, setTheme] = useTheme();
