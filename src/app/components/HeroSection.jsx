@@ -45,7 +45,7 @@ export const products = [
   },
 
   {
-    title: "Pura Ulun Danu Bratan",
+    title: "Pura Ulun Danu Bratan2",
     link:'https://www.bing.com/ck/a?!&&p=94c2ec45dbda1754JmltdHM9MTcyMTYwNjQwMCZpZ3VpZD0xOTBlZDk2MC0xMzQyLTYyZTQtMjBmMS1jZDNhMTJiNTYzN2UmaW5zaWQ9NTU3Nw&ptn=3&ver=2&hsh=3&fclid=190ed960-1342-62e4-20f1-cd3a12b5637e&psq=Pura+Ulun+Danu+Bratan&u=a1aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvUHVyYV9VbHVuX0RhbnVfQnJhdGFu&ntb=1',
     thumbnail:
       "https://img.freepik.com/premium-photo/pura-ulun-danu-bratan_29505-234.jpg?ga=GA1.1.2011722593.1713692195&semt=sph",
